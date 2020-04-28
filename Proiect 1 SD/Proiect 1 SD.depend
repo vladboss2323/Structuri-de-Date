@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584455952 source:c:\codeblocks projects\proiect 1 sd\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<time.h>
+	<chrono>
+	<bits/stdc++.h>
+
+1584814711 source:c:\facultate\anul 1 semestrul 2\structuri de date\proiect 1 sd\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<time.h>
+	<chrono>
+	<bits/stdc++.h>
+
